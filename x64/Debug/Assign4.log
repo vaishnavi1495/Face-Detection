@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\bhosa\onedrive\documents\visual studio 2015\projects\assign4_vbb160030\assign4_vbb160030\assign4\assign4\header.h(209): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bhosa\onedrive\documents\visual studio 2015\projects\assign4_vbb160030\assign4_vbb160030\assign4\assign4\header.h(228): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bhosa\onedrive\documents\visual studio 2015\projects\assign4_vbb160030\assign4_vbb160030\assign4\assign4\header.h(231): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\bhosa\onedrive\documents\visual studio 2015\projects\assign4_vbb160030\assign4_vbb160030\assign4\assign4\header.h(238): warning C4715: 'FaceRecognition': not all control paths return a value
+  Assign4.vcxproj -> C:\Users\bhosa\OneDrive\Documents\Visual Studio 2015\Projects\Assign4_vbb160030\Assign4_vbb160030\Assign4\x64\Debug\Assign4.exe
+  Assign4.vcxproj -> C:\Users\bhosa\OneDrive\Documents\Visual Studio 2015\Projects\Assign4_vbb160030\Assign4_vbb160030\Assign4\x64\Debug\Assign4.pdb (Full PDB)

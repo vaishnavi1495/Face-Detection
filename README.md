@@ -1,7 +1,7 @@
 # Face-Detection
 
 ## Idea
-This is a video analytics assignment to detect the face of a person.  
+This is a video analytics project to detect the face of a person.  
 
 ## Overview
 1)	#include "opencv2\contrib\contrib.hpp” header is included to use facerecognizer
